@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleWebService</string>
+    <string name="title_activity_results">ResultsActivity</string>
+</resources>
